@@ -1,4 +1,4 @@
-comida = ['Pizza', 'Hamburguesa', 'Hot dog', 'Completo', 2, 0.5, True]
+comida = ['Pizza', 'Hamburguesa', 'Hot dog', 'Completo', 2, 0.5, True] #<<-- los [] son listas
 
 comida[0]= 'Helado'
 

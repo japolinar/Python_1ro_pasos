@@ -1,4 +1,4 @@
-estudiastes = ('alex', 22, 'M', 'maria', 22, 'F')
+estudiastes = ('alex', 22, 'M', 'maria', 22, 'F') #<<-- Los () son tublas
 
 # print(estudiastes.count('alex'))
 # print(estudiastes.index('M'))

@@ -1,4 +1,4 @@
-utensilios = {'tenedor', 'cuchara', 'cuchillo'}
+utensilios = {'tenedor', 'cuchara', 'cuchillo'} #<<-- los {} son sets
 platos = {'plato', 'bol', 'taza'}
 
 #utensilios.add('cucharon')
